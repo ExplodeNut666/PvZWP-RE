@@ -40,7 +40,7 @@ D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiv
 D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.AssemblyInfoInputs.cache
 D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.AssemblyInfo.cs
 D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.csproj.CoreCompileInputs.cache
-D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.csproj.CopyComplete
 D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.dll
 D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.pdb
 D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.genruntimeconfig.cache
+D:\PvZWP-RE\IronPyInteractiveClient_WPF\obj\Debug\netcoreapp3.1\IronPyInteractiveClient_WPF.csproj.CopyComplete

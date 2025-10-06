@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Kth61MzTYsM=",
+  "dgSpecHash": "61Z8yCN1NvKDraERGkaPxF34JAmgHM2u2ekR2x9JSvju6ygpIvv3i8GXVj2su81FZwGoic3Veb6UlDTy6koLVg==",
   "success": true,
   "projectFilePath": "D:\\PvZWP-RE\\IronPyInteractiveClient_WPF\\IronPyInteractiveClient_WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\websocketsharp.netcore\\1.0.1-alpha.4\\websocketsharp.netcore.1.0.1-alpha.4.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
   ],

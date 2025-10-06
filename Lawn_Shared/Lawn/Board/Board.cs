@@ -3566,7 +3566,7 @@ namespace Lawn
 
         public bool StageHas6Rows()
         {
-            return mBackground == BackgroundType.Num3Pool || mBackground == BackgroundType.Num4Fog;
+            return mBackground == BackgroundType.Num1Day || mBackground == BackgroundType.Num2Night ||  mBackground == BackgroundType.Num3Pool || mBackground == BackgroundType.Num4Fog || mBackground == BackgroundType.Num5Roof;
         }
 
         public bool StageHasFog()
@@ -6565,7 +6565,7 @@ namespace Lawn
                 mPlantRow[2] = PlantRowType.Normal;
                 mPlantRow[3] = PlantRowType.Normal;
                 mPlantRow[4] = PlantRowType.Normal;
-                mPlantRow[5] = PlantRowType.Normal;
+                mPlantRow[5] = PlantRowType.Dirt;
             }
             else
             {

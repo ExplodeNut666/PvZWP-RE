@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aHZhIU5iTts=",
+  "dgSpecHash": "X9Q0/xoFl+KF/7cObxYJaBg6i6jIenHhyv3PGDcurjPhNTyvQ1NPIyalSWJXN6v9sHnUGWNgDD1Fz08gVaT23Q==",
   "success": true,
   "projectFilePath": "D:\\PvZWP-RE\\Lawn_PCDX\\Lawn_PCDX.csproj",
   "expectedPackageFiles": [
@@ -148,8 +148,8 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\websocketsharp.netcore\\1.0.1-alpha.4\\websocketsharp.netcore.1.0.1-alpha.4.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
   ],

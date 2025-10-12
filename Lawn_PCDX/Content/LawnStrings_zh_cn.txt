@@ -1647,7 +1647,7 @@ Hey neighbor! Got some new items for sale!
 {NO_CLICK}{SHAKE}Morticulturalist!!!{MOUTH_BIG_SMILE}
 
 [MENU_BUTTON]
-RE_Pre1
+RE_Canary
 
 [ADVICE_MORE_ZOMBIES]
 More zombies approaching!

@@ -3566,7 +3566,7 @@ namespace Lawn
 
         public bool StageHas6Rows()
         {
-            return mBackground == BackgroundType.Num1Day || mBackground == BackgroundType.Num2Night ||  mBackground == BackgroundType.Num3Pool || mBackground == BackgroundType.Num4Fog || mBackground == BackgroundType.Num5Roof;
+            return mBackground == BackgroundType.Num1Day || mBackground == BackgroundType.Num2Night ||  mBackground == BackgroundType.Num3Pool || mBackground == BackgroundType.Num4Fog;
         }
 
         public bool StageHasFog()
